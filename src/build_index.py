@@ -1,4 +1,3 @@
-# src/build_index.py
 import os
 import pandas as pd
 import joblib
