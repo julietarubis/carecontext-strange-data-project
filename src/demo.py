@@ -1,4 +1,3 @@
-# src/demo.py
 import os
 import joblib
 
@@ -22,7 +21,7 @@ def main():
         "Staff leaves to the equipment room to get a wheelchair, leaving the resident standing."
     )
 
-    # Retrieval query (can be edited for other test prompts)
+    # Retrieval query
     query = "sitting room evening left standing transfer wheelchair walking frame fall"
 
     retrieved = rag.retrieve(query, k=3)
