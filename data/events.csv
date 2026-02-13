@@ -1,0 +1,3 @@
+resident_id,resident_name,event_date,event_time,location,activity,assist_level,walking_aid,staff_present,staff_action,event_type,notes,fell
+R001,Muriel,2024-12-14,08:00,Resident Room,Walking to toilet,Independent,Walking frame,No,,Fall,Resident found on floor in room while walking to toilet using walking frame,Yes
+R001,Muriel,2025-01-19,19:00,Sitting Room,Walking to bedroom,Assisted,Walking frame,Yes,HCA left resident to get wheelchair,Fall,Resident fell after being left standing with walking frame near sitting room door,Yes
